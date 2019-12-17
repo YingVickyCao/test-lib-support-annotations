@@ -8,4 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+<!--    <drawable name="page_logo">@drawable/ic_launcher_background</drawable>-->
+
 </resources>
