@@ -1,7 +1,7 @@
 | Annotation   | Desc                                                                                                       |
 | ------------ | ---------------------------------------------------------------------------------------------------------- |
-| @NonNull     | tip wrong msg when return null                                                                             |
-| @Nullable    | check if is null when using                                                                                |
+| @NonNull     | When return null, tip wrong msg                                                                            |
+| @Nullable    | When using, must check null.                                                                               |
 | @StringRes   | setText(`R.string.id`)                                                                                     |
 | @DrawableRes | setImageResource(`R.drawable.id`)                                                                          |
 | @DimenRes    | getResources().getDimensionPixelSize(`R.dimen.resId`)                                                      |
